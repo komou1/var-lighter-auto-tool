@@ -22,7 +22,7 @@ const GLOBAL_CONFIG = {
         currentExchange: 'AUTO',
         currentPosition: null,
         autoDetectExchange: true,
-        sleepAfter: 600000,  // 单位毫秒
+        sleepAfter: 300000,  // 单位毫秒
         waitBeforeRetry: 1000, // 1秒
         uiUpdateDelay: 500, // 0.5秒
         executionInterval: 300, // 0.3秒
